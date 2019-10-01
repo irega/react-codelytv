@@ -6,6 +6,7 @@ const FAKE_DATA = [
         url: 'https://www.youtube.com/watch?v=rpMQd2DazTc',
         embed: 'https://www.youtube.com/embed/rpMQd2DazTc',
         thumbnail: 'https://img.youtube.com/vi/rpMQd2DazTc/maxresdefault.jpg',
+        date:new Date()
     },
     {
         id: 1,
@@ -13,6 +14,7 @@ const FAKE_DATA = [
         url: 'https://www.youtube.com/embed/watch?v=v2IjMrpZog4',
         embed: 'https://www.youtube.com/embed/v2IjMrpZog4',
         thumbnail: 'https://img.youtube.com/vi/v2IjMrpZog4/maxresdefault.jpg',
+        date:new Date()
     },
     {
         id: 2,
@@ -20,6 +22,7 @@ const FAKE_DATA = [
         url: 'https://www.youtube.com/watch?v=V4mjxJ5czog',
         embed: 'https://www.youtube.com/embed/V4mjxJ5czog',
         thumbnail: 'https://img.youtube.com/vi/V4mjxJ5czog/maxresdefault.jpg',
+        date:new Date()
     },
     {
         id: 3,
@@ -27,6 +30,7 @@ const FAKE_DATA = [
         url: 'https://www.youtube.com/watch?v=uP1CoHtjALg',
         embed: 'https://www.youtube.com/embed/uP1CoHtjALg',
         thumbnail: 'https://img.youtube.com/vi/uP1CoHtjALg/maxresdefault.jpg',
+        date:new Date()
     },
     {
         id: 4,
@@ -34,6 +38,7 @@ const FAKE_DATA = [
         url: 'https://www.youtube.com/watch?v=OyTPDFyGWRc',
         embed: 'https://www.youtube.com/embed/OyTPDFyGWRc',
         thumbnail: 'https://img.youtube.com/vi/OyTPDFyGWRc/maxresdefault.jpg',
+        date:new Date()
     },
     {
         id: 5,
@@ -41,6 +46,7 @@ const FAKE_DATA = [
         url: 'https://www.youtube.com/watch?v=lttZCIin4HM',
         embed: 'https://www.youtube.com/embed/lttZCIin4HM',
         thumbnail: 'https://img.youtube.com/vi/lttZCIin4HM/maxresdefault.jpg',
+        date:new Date()
     }
 ];
 
